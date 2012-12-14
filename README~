@@ -23,8 +23,7 @@ USAGE :
 		
 	The test case file "testapp.c" is provided which can be modified as per requirement.
 
-	A make file is also provided which will produce a executable file name "testapp",
-	you can change the name of executable be changing in the makefile. 	
+	A make file is also provided which will produce a executable file name "testapp", you can change the 		name of executable be changing in the makefile. 	
 
 
 RUN (for Linux) : 
