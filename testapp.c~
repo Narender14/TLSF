@@ -14,7 +14,7 @@ MemInit();   //Initializing free pool of memory
 
 int i=0;
 
-void *A[10];	//Array to store the pointer to allocated memory, these pointer will be used for freeing. 
+void *A[10];	//Array to store the pointer to allocated memory, these pointer will be used for freeing 
 struct Link *cv;
 A[0]=MyMalloc(100);       // Allocating the memory
 A[1]=MyMalloc(30);

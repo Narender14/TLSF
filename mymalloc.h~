@@ -1,8 +1,7 @@
 /*
-* Signature of the functions used
+* Signature of the function used
 */
 
 int MemInit();
 void *MyMalloc(int s);
 void MyFree(void *p);
-
